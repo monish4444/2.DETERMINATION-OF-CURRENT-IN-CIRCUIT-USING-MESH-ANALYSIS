@@ -22,6 +22,11 @@
 
 **CIRCUIT DIAGRAM:**
 
+![ECN  5](https://github.com/user-attachments/assets/4a02d2dc-5fb0-47ad-a1ad-9ef9b3cae9ac)
+![ECN   6](https://github.com/user-attachments/assets/82ba59f2-98d0-43c0-882b-6e00af3277a3)
+![ECN    7](https://github.com/user-attachments/assets/ff6fe12c-1df3-417c-9f01-e5cfb1d03875)
+![ECN  4](https://github.com/user-attachments/assets/02d74333-a2fa-42d5-b6d1-5361d487a2b9)
+
 **PROCEDURE:** 
 
 1.	Give connections as per the circuit diagram.
